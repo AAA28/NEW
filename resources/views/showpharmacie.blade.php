@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-2"></div>
         <div class="col-md-8">
-                <p>nombres de resultat est:{{$pharmacie->count()}} : {{$data}}</p>
+                <p>nombres de resultats est:{{$pharmacie->count()}} : {{$data}}</p>
        <table class="table table-bordered table-inverse table-responsive">
            
            <thead class="thead-inverse">
